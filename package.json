@@ -29,6 +29,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git"
     },
     "dependencies": {
+        "axios": "^0.21.1",
         "bootstrap": "4.3.1",
         "http-proxy": "^1.18.1",
         "jquery": "^3.5.1"
